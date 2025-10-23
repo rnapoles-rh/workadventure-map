@@ -1,0 +1,2 @@
+# workadventure-map
+Workadventure map
