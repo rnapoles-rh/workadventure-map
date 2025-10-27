@@ -1,3 +1,3 @@
 # workadventure-map
 Workadventure map.
-![Office map] (./office.png)
+![Office map](./office.png)
